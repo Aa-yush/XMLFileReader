@@ -1,0 +1,33 @@
+<?xml version="1.0"?>  
+<class>  
+    <student>  
+        <enrolment>101</enrolment>  
+        <name>Ayush</name>  
+        <grade>99</grade> 
+    </student>  
+      
+    <student>  
+        <enrolment>102</enrolment>  
+        <name>Komal</name>  
+        <grade>81</grade> 
+    </student>
+
+    <student>  
+        <enrolment>103</enrolment>  
+        <name>Sameer</name>  
+        <grade>42</grade> 
+    </student>
+
+    <student>  
+        <enrolment>104</enrolment>  
+        <name>Monika</name>  
+        <grade>56</grade> 
+    </student>
+
+    <student>  
+        <enrolment>105</enrolment>  
+        <name>Sweta</name>  
+        <grade>24</grade> 
+    </student>
+  
+</class>  
